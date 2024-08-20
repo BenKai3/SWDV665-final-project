@@ -1,0 +1,7 @@
+{
+  "name": "SweetSpot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
