@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SweetSpot</string>
+    <string name="title_activity_main">SweetSpot</string>
+    <string name="package_name">com.sweetspot</string>
+    <string name="custom_url_scheme">com.sweetspot</string>
+</resources>

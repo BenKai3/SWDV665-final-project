@@ -1,0 +1,32 @@
+h1, .input-field, .textarea-field, .action-button {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.home-content {
+    --padding-start: 16px;
+    --padding-end: 16px;
+    --padding-top: 40px;
+    --padding-bottom: 16px;
+    background-color: #f9f9f9;
+  }
+  
+  .input-field, .textarea-field {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    color: black;
+  }
+  
+  .textarea-field {
+    min-height: 100px;
+  }
+  
+  .action-button {
+    margin-top: 20px;
+    --background: #5cb85c;
+    --border-radius: 8px;
+  }

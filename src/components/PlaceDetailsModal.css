@@ -1,0 +1,39 @@
+.modal-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .place-details {
+    text-align: center;
+  }
+
+  .place-details > * {
+    display: block;
+  }
+  
+  .place-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .place-description, .place-coordinates {
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  .place-photo {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  .modal-actions {
+    margin-top: 20px;
+  }
+  
+  .modal-button {
+    --background: #5cb85c;
+    --border-radius: 8px;
+    margin-bottom: 10px;
+  }
